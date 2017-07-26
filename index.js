@@ -1,4 +1,5 @@
 'use strict';
+var str="yjwstr";
 //创建一个http协议
 var http=require('http');
 //创建一个服务
